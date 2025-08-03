@@ -1,0 +1,14 @@
+D:\Code\Coding Foundation\encapsulation-example\bin\Debug\net8.0\encapsulation-example.exe
+D:\Code\Coding Foundation\encapsulation-example\bin\Debug\net8.0\encapsulation-example.deps.json
+D:\Code\Coding Foundation\encapsulation-example\bin\Debug\net8.0\encapsulation-example.runtimeconfig.json
+D:\Code\Coding Foundation\encapsulation-example\bin\Debug\net8.0\encapsulation-example.dll
+D:\Code\Coding Foundation\encapsulation-example\bin\Debug\net8.0\encapsulation-example.pdb
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.AssemblyInfoInputs.cache
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.AssemblyInfo.cs
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.csproj.CoreCompileInputs.cache
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.dll
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\refint\encapsulation-example.dll
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.pdb
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\encapsulation-example.genruntimeconfig.cache
+D:\Code\Coding Foundation\encapsulation-example\obj\Debug\net8.0\ref\encapsulation-example.dll

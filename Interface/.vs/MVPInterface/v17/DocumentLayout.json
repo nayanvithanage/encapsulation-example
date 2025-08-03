@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SSE\\Tutorials\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D230A359-2D2B-40E2-91F9-36D52A2264CE}|Interface.csproj|d:\\sse\\tutorials\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D230A359-2D2B-40E2-91F9-36D52A2264CE}|Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D230A359-2D2B-40E2-91F9-36D52A2264CE}|Interface.csproj|d:\\sse\\tutorials\\interface\\pig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D230A359-2D2B-40E2-91F9-36D52A2264CE}|Interface.csproj|solutionrelative:pig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D230A359-2D2B-40E2-91F9-36D52A2264CE}|MPVInterface.csproj|d:\\sse\\tutorials\\interface\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D230A359-2D2B-40E2-91F9-36D52A2264CE}|MPVInterface.csproj|solutionrelative:ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\SSE\\Tutorials\\Interface\\IAnimal.cs",
+              "RelativeDocumentMoniker": "IAnimal.cs",
+              "ToolTip": "D:\\SSE\\Tutorials\\Interface\\IAnimal.cs",
+              "RelativeToolTip": "IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:16:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pig.cs",
+              "DocumentMoniker": "D:\\SSE\\Tutorials\\Interface\\Pig.cs",
+              "RelativeDocumentMoniker": "Pig.cs",
+              "ToolTip": "D:\\SSE\\Tutorials\\Interface\\Pig.cs",
+              "RelativeToolTip": "Pig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:13:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SSE\\Tutorials\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SSE\\Tutorials\\Interface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:10:46.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
